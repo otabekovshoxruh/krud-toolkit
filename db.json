@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Boymurodov. O",
+      "email": "futbol@fut.com",
+      "country": "UZB",
+      "game": "U20 ASION",
+      "id": 1
+    },
+    {
+      "name": "KHUSANOV O",
+      "email": "futbol@fut.com",
+      "country": "UZB",
+      "game": "U20 ASIAN",
+      "id": 2
+    },
+    {
+      "name": "URAZOV .J",
+      "email": "Futbol@fut.com",
+      "country": "UZB",
+      "game": "U20 ASIAN",
+      "id": 3
+    },
+    {
+      "name": "ASKAROV .B",
+      "email": "FUTBOL@FUT.com",
+      "country": "UZB",
+      "game": "U20 ASIAN",
+      "id": 4
+    }
+  ]
+}

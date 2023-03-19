@@ -1,0 +1,24 @@
+.container{
+    width: 600px;
+    height: 300px;
+    margin: auto;    
+}
+
+.form__column{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+}
+
+.text__center{
+    text-align: center;
+    
+}
+
+.form__input{
+    font-size: 18px;
+    border-radius: 5px;
+}
